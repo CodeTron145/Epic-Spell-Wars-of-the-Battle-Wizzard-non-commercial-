@@ -1,0 +1,45 @@
+# =============== #
+# Unity Generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.tmp
+*.svd
+*.pdb
+
+# User-specific settings
+UserSettings/
+*.userprefs
+
+# Auto-generated files
+.DS_Store
+Thumbs.db
+
+# Git backup files
+*.bak
+
+# crashes and logs
+CrashReports/
+.logs/
+
+# PlayStation & Xbox builds
+PS4/
+XboxOne/
+
+# Generated files by Rider/JetBrains
+*.sln.DotSettings
+*.csproj.DotSettings.user
